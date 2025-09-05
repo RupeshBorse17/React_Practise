@@ -1,0 +1,10 @@
+.counter-container{
+    background-color: rgba(153, 13, 144, 0.598);
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 1.5rem;
+    border: 2px solid rgb(120, 71, 71);
+    border-radius: 5px;
+}
